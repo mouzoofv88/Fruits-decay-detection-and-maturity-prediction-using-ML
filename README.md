@@ -1,5 +1,7 @@
 #An Intelligent Fruit Decay Detection and Sorting
 Technique using YOLO V4 Algorithm
+
+
 Application of advanced technologies in the agri-
 culture field has been increasing day by day due to their
 high accuracy and reduced cost. The real time application of
